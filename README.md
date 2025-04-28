@@ -30,4 +30,3 @@
 Sinta-se à vontade para acompanhar minha evolução e sugerir melhorias!
 
 ---
-> `asdfsdfsdfsdf`
