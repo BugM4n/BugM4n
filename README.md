@@ -1,7 +1,6 @@
 # Bem-vindo ao meu GitHub!
 
-👋 Olá! Meu nome é Alan e atualmente sou estudante de **Red Team**, com foco em segurança ofensiva e automação de tarefas de pentest.
-
+ Olá! Meu nome é Alan e atualmente sou estudante com foco em segurança ofensiva e no desenvolvimento de scripts para automação de tarefas, scripts para pentest.
 ## Sobre mim
 
 - 🎯 Focado em técnicas de **invasão** e **pentest ético**.
